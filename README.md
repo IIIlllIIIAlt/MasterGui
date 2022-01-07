@@ -121,13 +121,20 @@ tp to all players - tp to all players alive good for murderer or party planner
 
 		How to buy:
 https://shoppy.gg/product/922QRzC
+
 join barcode free gc on telegram to ask qustions
+
 https://t.me/+2eLm4xiY0d02ZGU0
+
 or you can message me on Twitter however this may take longer for replies
+
 https://twitter.com/IIIlllIIIAlt
 
 		TOS
 [] Barcode is currently synapse only by buying you acknoldege this will only work with synapse
+
 [] Sharing your key or reselling will result in a ban
+
 [] By purchasing you acknoledge Barcode may become patched or discontinued however there is currently no plans to discontinue
+
 [] Breaking barcode rules will result in punishment
