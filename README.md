@@ -20,16 +20,26 @@ Barcode [+]
 [] Auto play - plays game legit so you can farm on mains
 
 Auto farms have many built in features allowing you to maximise your profits:
-	[] Kills via stabbing aswell as blatant silent aim whereas previous auto farms only used stab
-	[] No clip bypass allowing you get from player to player killing even after teleport patch
-	[] Auto trade accept so any trades sent is auto accepted resulting in occasional free knives
-	[] Anti afk
-	[] Auto season pass claim so you don't need to claim yourself saving time
-	[]Auto map vote so it votes for maps that are best for auto farm
-	[] Auto rejoin when kicked
-	[] Auto rejoin every 19 mins incase of other any other issues
-	[] Auto server hop when less than 4 players to allow optimising profit
-	[] Auto server hop when you lose 4 matches in a row to find better servers
+
+[] Kills via stabbing aswell as blatant silent aim whereas previous auto farms only used stab
+	
+[] No clip bypass allowing you get from player to player killing even after teleport patch
+
+[] Auto trade accept so any trades sent is auto accepted resulting in occasional free knives
+
+[] Anti afk
+
+[] Auto season pass claim so you don't need to claim yourself saving time
+
+[]Auto map vote so it votes for maps that are best for auto farm
+
+[] Auto rejoin when kicked
+
+[] Auto rejoin every 19 mins incase of other any other issues
+
+[] Auto server hop when less than 4 players to allow optimising profit
+
+[] Auto server hop when you lose 4 matches in a row to find better servers
 
 	Silents Aims:
 [] Blatant silent aim - blantant hit every shot silent aim
@@ -100,7 +110,6 @@ Auto farms have many built in features:
 
 []Waits and suto joins an elevatror for a compatible map
 
-
 []Spams solo please in evelavator to deter people joining
 
 []Auto server hops if players join your match
@@ -126,13 +135,20 @@ Auto farms have many built in features:
 [] Auto farm
 
 Auto farms have many built in features:
-	[]Searches for compatible lobby server hopping
-	[]Auto hacks computers
-	[]Auto wins minigames
-	[]Auto escapses once done hacking
-	[]Anti afk
-	[]Auto rejoin when beast to optimse
-	[]Auto server hop if waiting 5 mins for players
+
+[]Searches for compatible lobby server hopping
+
+[]Auto hacks computers
+
+[]Auto wins minigames
+
+[]Auto escapses once done hacking
+
+[]Anti afk
+
+[]Auto rejoin when beast to optimse
+
+[]Auto server hop if waiting 5 mins for players
 
 	Extras
 [] Auto win minigames
@@ -143,14 +159,22 @@ Auto farms have many built in features:
 
 	Auto farm
 [] auto farm
+
 Auto farms have many built in features:
-	[] Auto picks up coins
-	[] Auto hides in safe place when ino, hacker, sheriff etc
-	[] Auto kills when party planner or murder
-	[] Auto hacks when hacker
-	[] Anti afk
-	[] Auto server hop when low players
-	[] Auto rejoin if kicked
+
+[] Auto picks up coins
+
+[] Auto hides in safe place when ino, hacker, sheriff etc
+
+[] Auto kills when party planner or murder
+
+[] Auto hacks when hacker
+
+[] Anti afk
+
+[] Auto server hop when low players
+
+[] Auto rejoin if kicked
 
 	Extras
 [] esp - players esp
