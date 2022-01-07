@@ -8,7 +8,7 @@ Barcode [+]
 
 		Assassin
 
-	Auto farms:
+	Auto farms
 Classic - auto farms in classic
 Pro - auto farms in pro
 Comp - auto farms comp
