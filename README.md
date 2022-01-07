@@ -25,7 +25,7 @@ Auto farms have many built in features allowing you to maximise your profits:
 	[] Auto trade accept so any trades sent is auto accepted resulting in occasional free knives
 	[] Anti afk
 	[] Auto season pass claim so you don't need to claim yourself saving time
-	[ ]Auto map vote so it votes for maps that are best for auto farm
+	[]Auto map vote so it votes for maps that are best for auto farm
 	[] Auto rejoin when kicked
 	[] Auto rejoin every 19 mins incase of other any other issues
 	[] Auto server hop when less than 4 players to allow optimising profit
@@ -96,14 +96,22 @@ Auto farms have many built in features allowing you to maximise your profits:
 
 [] Hardcore auto farm - farms hardcore using ace piolot and military base
 
-[] Auto farms have many built in features:
-	[]Waits and suto joins an elevatror for a compatible map
-	[]Spams solo please in evelavator to deter people joining
-	[]Auto server hops if players join your match
-	[]Auto cmpletes match and join into the next one
-	[]Auto vote skips and follows template to optimise farm
-	[]Auto equip towers needed for auto farm 
-	[]Anti afk
+Auto farms have many built in features:
+
+[]Waits and suto joins an elevatror for a compatible map
+
+
+[]Spams solo please in evelavator to deter people joining
+
+[]Auto server hops if players join your match
+
+[]Auto cmpletes match and join into the next one
+
+[]Auto vote skips and follows template to optimise farm
+
+[]Auto equip towers needed for auto farm 
+
+[]Anti afk
 
 	Extra
 [] Auto vote to skip - toggle on and off vote to skip
