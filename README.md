@@ -118,6 +118,8 @@ Auto farms have many built in features:
 
 []Auto vote skips and follows template to optimise farm
 
+[]Auto buys towers if needed
+
 []Auto equip towers needed for auto farm 
 
 []Anti afk
@@ -185,6 +187,17 @@ Auto farms have many built in features:
 
 [] tp to all players - tp to all players alive good for murderer or party planner
 
+
+		Infectious Smile
+[] Auto Farm
+
+[] Infected Aura
+
+[] Get Bat
+
+[] Bat Aura
+
+[] Esp for humans and infected
 
 		How to buy:
 https://shoppy.gg/product/922QRzC
