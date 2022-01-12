@@ -146,6 +146,8 @@ Auto farms have many built in features:
 
 []Auto escapses once done hacking
 
+[]Anti Beast aura to avoid capture
+
 []Anti afk
 
 []Auto rejoin when beast to optimse
