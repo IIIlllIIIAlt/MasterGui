@@ -201,6 +201,18 @@ Auto farms have many built in features:
 
 [] Esp for humans and infected
 
+
+		Horrific Housing
+[] Auto Wins Farm
+
+[] Auto Coins Farm
+
+[] Open Multiple Free Crates
+
+[] Win Obby
+
+[] Invisible House
+
 		How to buy:
 https://shoppy.gg/product/922QRzC
 
